@@ -5,14 +5,14 @@
 Me chamo Luiz Petry, tenho 21 anos e sou do Rio Grande do Sul. Com o curso de Análise e Desenvolvimento de Sistemas concluído, e atualmente cursando Engenharia de Software. Cursos complementarem em linguagens de programação como Python, Node.js, HTML, CSS, JavaScript e Typescript. 
 
 <p align="left">
-    <a href="https://linkedin.com/in/luizfernando-tecnologia">
+    <!-- <a href="https://linkedin.com/in/luizfernando-tecnologia">
         <img
             alt="Linkedin"
             title="Perfil LinkedIn"
             src="https://img.shields.io/badge/Linkedin%20-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
             "
         />
-    </a> 
+    </a>  -->
 </p>
 
 ---
@@ -123,13 +123,6 @@ Me chamo Luiz Petry, tenho 21 anos e sou do Rio Grande do Sul. Com o curso de An
 ### 📊 Estatísticas
 
 <p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=luizpetry&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
 
 <img 
       align="left" 
