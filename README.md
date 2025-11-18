@@ -72,7 +72,7 @@ Me chamo Luiz Petry, tenho 21 anos e sou do Rio Grande do Sul. Com o curso de An
     alt="Flask" 
     title="Flask"
     width="30px" 
-    style="padding-right: 10px; filter: invert(48%) sepia(79%) saturate(2476%) hue-rotate(86deg) brightness(118%) contrast(119%);" 
+    style="padding-right: 10px;" 
     src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZD0iTTEyIDJMMiAyMmgxMEwxMiAyek0xMiA2bC0yIDloNHoiIGZpbGw9IndoaXRlIi8+PC9zdmc+" 
 />
 <img 
@@ -80,7 +80,7 @@ Me chamo Luiz Petry, tenho 21 anos e sou do Rio Grande do Sul. Com o curso de An
     alt="Fastify" 
     title="Fastify"
     width="30px" 
-    style="padding-right: 10px; filter: brightness(0) invert(1) !important;" 
+    style="padding-right: 10px;" 
     src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZD0iTTEyIDBDNS4zNzMgMCAwIDUuMzczIDAgMTJzNS4zNzMgMTIgMTIgMTIgMTItNS4zNzMgMTItMTJTMTguNjI3IDAgMTIgMHptMCAyMmMtNS41MjIgMC0xMC00LjQ3OC0xMC0xMHM0LjQ3OC0xMCAxMC0xMCAxMCA0LjQ3OCAxMCAxMC00LjQ3OCAxMC0xMCAxMHptLTUtMTBoMTB2Mkg3di0yeiIgZmlsbD0id2hpdGUiLz48L3N2Zz4=" 
 />
 <img 
