@@ -9,7 +9,7 @@ Me chamo Luiz Petry, tenho 21 anos e sou do Rio Grande do Sul. Com o curso de An
         <img
             alt="Linkedin"
             title="Perfil LinkedIn"
-            src="[https://img.shields.io/badge/Linkedin%20-0077B5?style=for-the-badge&logo=linkedin&logoColor=white](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
+            src="https://img.shields.io/badge/LinkedIn-C79600?style=for-the-badge&logo=linkedin&logoColor=white
             "
         />
     </a> 
@@ -127,7 +127,6 @@ Me chamo Luiz Petry, tenho 21 anos e sou do Rio Grande do Sul. Com o curso de An
     align="left" 
     alt="GitHub Stats" 
     height="200" 
-    style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=luizpetry&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
 
