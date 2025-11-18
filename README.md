@@ -6,12 +6,12 @@ Me chamo Luiz Petry, tenho 21 anos e sou do Rio Grande do Sul. Com o curso de An
 
 <p align="left">
     <a href="https://linkedin.com/in/luizfernando-tecnologia">
-        <!-- <img
+        <img
             alt="Linkedin"
             title="Perfil LinkedIn"
-            src="https://img.shields.io/badge/LinkedIn-C79600?style=for-the-badge&logo=linkedin&logoColor=white
+            src="https://img.shields.io/badge/Linkedin%20-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
             "
-        /> -->
+        />
     </a> 
 </p>
 
@@ -72,16 +72,16 @@ Me chamo Luiz Petry, tenho 21 anos e sou do Rio Grande do Sul. Com o curso de An
     alt="Flask" 
     title="Flask"
     width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original-wordmark.svg" 
+    style="padding-right: 10px; filter: invert(48%) sepia(79%) saturate(2476%) hue-rotate(86deg) brightness(118%) contrast(119%);" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg" 
 />
 <img 
     align="left" 
     alt="Fastify" 
     title="Fastify"
     width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastify/fastify-original-wordmark.svg" 
+    style="padding-right: 10px; filter: brightness(0) invert(1);" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastify/fastify-original.svg" 
 />
 <img 
     align="left" 
@@ -123,6 +123,13 @@ Me chamo Luiz Petry, tenho 21 anos e sou do Rio Grande do Sul. Com o curso de An
 ### 📊 Estatísticas
 
 <p>
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=luizpetry&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+  />
 
 <img 
       align="left" 
