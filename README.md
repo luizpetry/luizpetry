@@ -72,7 +72,7 @@ Me chamo Luiz Petry, tenho 21 anos e sou do Rio Grande do Sul. Com o curso de An
     alt="Flask" 
     title="Flask"
     width="30px" 
-    style="padding-right: 10px; filter: invert(48%) sepia(79%) saturate(2476%) hue-rotate(86deg) brightness(118%) contrast(119%);" 
+    style="padding-right: 10px; filter: brightness(0) invert(1);" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg" 
 />
 <img 
