@@ -24,6 +24,7 @@ Me chamo Luiz Petry, tenho 21 anos e sou do Rio Grande do Sul. Com o curso de An
     title="Python"
     width="30px" 
     style="padding-right: 10px;" 
+    style="padding-right: 10px; filter: grayscale(1) brightness(0.7);" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
 <img 
@@ -32,6 +33,7 @@ Me chamo Luiz Petry, tenho 21 anos e sou do Rio Grande do Sul. Com o curso de An
     title="NODE.JS"
     width="30px" 
     style="padding-right: 10px;" 
+    style="padding-right: 10px; filter: grayscale(1) brightness(0.7);" 
     class="devicon-nodejs-line colored"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-plain-wordmark.svg" 
 />
@@ -41,6 +43,7 @@ Me chamo Luiz Petry, tenho 21 anos e sou do Rio Grande do Sul. Com o curso de An
     title="HTML" 
     width="30px" 
     style="padding-right: 10px;" 
+    style="padding-right: 10px; filter: grayscale(1) brightness(0.7);" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
 />
 <img 
@@ -49,6 +52,7 @@ Me chamo Luiz Petry, tenho 21 anos e sou do Rio Grande do Sul. Com o curso de An
     title="CSS"
     width="30px" 
     style="padding-right: 10px;" 
+    style="padding-right: 10px; filter: grayscale(1) brightness(0.7);" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
 />
 <img 
@@ -73,6 +77,7 @@ Me chamo Luiz Petry, tenho 21 anos e sou do Rio Grande do Sul. Com o curso de An
     title="Flask"
     width="30px" 
     style="padding-right: 10px; filter: brightness(0) invert(1);" 
+    style="padding-right: 10px; filter: grayscale(1) brightness(0.7);" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg" 
 />
 <img 
@@ -81,6 +86,7 @@ Me chamo Luiz Petry, tenho 21 anos e sou do Rio Grande do Sul. Com o curso de An
     title="Fastify"
     width="30px" 
     style="padding-right: 10px; filter: brightness(0) invert(1);" 
+    style="padding-right: 10px; filter: grayscale(1) brightness(0.7);" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastify/fastify-original.svg" 
 />
 <img 
@@ -107,28 +113,3 @@ Me chamo Luiz Petry, tenho 21 anos e sou do Rio Grande do Sul. Com o curso de An
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" 
 />
-<img 
-    align="left" 
-    alt="Git" 
-    title="Git"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
-
-
-<br/>
-<br/>
-
-### 📊 Estatísticas
-
-<p>
-
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizpetry&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
-
-</p>
