@@ -1,16 +1,8 @@
-<div align="center">
+# 👩🏻‍💻 Luiz Petry
 
-$\Huge\textsf{👩🏻‍💻Luiz Petry👩🏻‍💻}$
-<br />
-**Desenvolvedor Full Stack**
-<br />
-Rio Grande do Sul, Brasil
+**Desenvolvedor Full Stack** · Rio Grande do Sul, Brasil
 
-</div>
-
----
-
-### Stack
+## Stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
@@ -22,17 +14,6 @@ Rio Grande do Sul, Brasil
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css&logoColor=white)
 
-### GitHub Stats
+## Contato
 
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=luizpetry&show_icons=true&hide_border=true&theme=dark&count_private=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizpetry&layout=compact&hide_border=true&theme=dark" />
-</p>
-
-### Contato
-
-<p align="left">
-  <a href="https://linkedin.com/in/luizfernand-tecnologia">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/luizfernand-tecnologia)
